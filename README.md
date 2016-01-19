@@ -1,1 +1,1 @@
-# game-finder
+# Watchr: The NBA game-finder
